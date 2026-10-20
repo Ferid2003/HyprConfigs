@@ -1,0 +1,6 @@
+# editor/backup clutter
+*.bak
+*.bak-*
+*.save
+*.swp
+*~
